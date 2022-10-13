@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/fitscape-web-app/static/css/main.17bdf1f0.css",
+    "main.js": "/fitscape-web-app/static/js/main.afce4779.js",
+    "static/media/workoutx.webp": "/fitscape-web-app/static/media/workoutx.0738d40d8d48ac66520b.webp",
+    "static/media/pullups.webp": "/fitscape-web-app/static/media/pullups.aa25964f12cd94fe53dc.webp",
+    "static/media/arnold.jpg": "/fitscape-web-app/static/media/arnold.fcda11915af956afb5bb.jpg",
+    "static/media/landing.webp": "/fitscape-web-app/static/media/landing.1f96ef1f6e5d22ab3e87.webp",
+    "static/media/cbum.webp": "/fitscape-web-app/static/media/cbum.82a40e3a72de82156d23.webp",
+    "static/media/benchpress.webp": "/fitscape-web-app/static/media/benchpress.43e4fce8f6aa7cd51615.webp",
+    "static/media/squats.webp": "/fitscape-web-app/static/media/squats.838a1dca0ef1ca003256.webp",
+    "static/media/frank-zane.webp": "/fitscape-web-app/static/media/frank-zane.e8fe03ed1b96281f97f2.webp",
+    "static/media/workout.jpg": "/fitscape-web-app/static/media/workout.e1e8f791c11132e20bfa.jpg",
+    "static/media/overhead-press.webp": "/fitscape-web-app/static/media/overhead-press.0e05e2c6bc5601e2b218.webp",
+    "static/media/ruf.webp": "/fitscape-web-app/static/media/ruf.76d166b2322c7710b9de.webp",
+    "static/media/landing2.webp": "/fitscape-web-app/static/media/landing2.d4ac1dae43081a853bd0.webp",
+    "index.html": "/fitscape-web-app/index.html",
+    "main.17bdf1f0.css.map": "/fitscape-web-app/static/css/main.17bdf1f0.css.map",
+    "main.afce4779.js.map": "/fitscape-web-app/static/js/main.afce4779.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17bdf1f0.css",
+    "static/js/main.afce4779.js"
+  ]
+}
